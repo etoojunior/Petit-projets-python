@@ -1,0 +1,179 @@
+{
+    "scores": {
+        "victoires": 1,
+        "defaites": 7,
+        "egalites": 5
+    },
+    "parties": [
+        {
+            "joueur": "pierre",
+            "ordinateur": "pierre",
+            "resultat": "\u00c9galit\u00e9"
+        },
+        {
+            "joueur": "ciseaux",
+            "ordinateur": "pierre",
+            "resultat": "D\u00e9faite"
+        },
+        {
+            "joueur": "papier",
+            "ordinateur": "papier",
+            "resultat": "\u00c9galit\u00e9"
+        },
+        {
+            "joueur": "ciseaux",
+            "ordinateur": "ciseaux",
+            "resultat": "\u00c9galit\u00e9"
+        },
+        {
+            "joueur": "pierre",
+            "ordinateur": "papier",
+            "resultat": "D\u00e9faite"
+        },
+        {
+            "joueur": "papier",
+            "ordinateur": "ciseaux",
+            "resultat": "D\u00e9faite"
+        },
+        {
+            "joueur": "ciseaux",
+            "ordinateur": "ciseaux",
+            "resultat": "\u00c9galit\u00e9"
+        },
+        {
+            "joueur": "ciseaux",
+            "ordinateur": "papier",
+            "resultat": "Victoire"
+        },
+        {
+            "joueur": "ciseaux",
+            "ordinateur": "pierre",
+            "resultat": "D\u00e9faite"
+        },
+        {
+            "joueur": "papier",
+            "ordinateur": "papier",
+            "resultat": "\u00c9galit\u00e9"
+        },
+        {
+            "joueur": "ciseaux",
+            "ordinateur": "pierre",
+            "resultat": "D\u00e9faite"
+        },
+        {
+            "joueur": "pierre",
+            "ordinateur": "papier",
+            "resultat": "D\u00e9faite"
+        },
+        {
+            "joueur": "papier",
+            "ordinateur": "ciseaux",
+            "resultat": "D\u00e9faite"
+        }
+    ],
+    "toto": {
+        "scores": {
+            "victoires": 4,
+            "defaites": 5,
+            "egalites": 2
+        },
+        "parties": [
+            {
+                "joueur": "pierre",
+                "ordinateur": "papier",
+                "resultat": "D\u00e9faite",
+                "date": "2025-05-14T16:42:42.792977"
+            },
+            {
+                "joueur": "papier",
+                "ordinateur": "ciseaux",
+                "resultat": "D\u00e9faite",
+                "date": "2025-05-14T16:43:02.179196"
+            },
+            {
+                "joueur": "ciseaux",
+                "ordinateur": "papier",
+                "resultat": "Victoire",
+                "date": "2025-05-14T16:43:10.067683"
+            },
+            {
+                "joueur": "papier",
+                "ordinateur": "pierre",
+                "resultat": "Victoire",
+                "date": "2025-05-14T16:43:17.034380"
+            },
+            {
+                "joueur": "pierre",
+                "ordinateur": "papier",
+                "resultat": "D\u00e9faite",
+                "date": "2025-05-14T16:43:25.665275"
+            },
+            {
+                "joueur": "ciseaux",
+                "ordinateur": "pierre",
+                "resultat": "D\u00e9faite",
+                "date": "2025-05-14T16:43:27.945333"
+            },
+            {
+                "joueur": "pierre",
+                "ordinateur": "ciseaux",
+                "resultat": "Victoire"
+            },
+            {
+                "joueur": "papier",
+                "ordinateur": "ciseaux",
+                "resultat": "D\u00e9faite"
+            },
+            {
+                "joueur": "ciseaux",
+                "ordinateur": "ciseaux",
+                "resultat": "\u00c9galit\u00e9"
+            },
+            {
+                "joueur": "papier",
+                "ordinateur": "pierre",
+                "resultat": "Victoire"
+            },
+            {
+                "joueur": "pierre",
+                "ordinateur": "pierre",
+                "resultat": "\u00c9galit\u00e9"
+            }
+        ],
+        "date_premiere_partie": "2025-05-14T16:42:27.193966"
+    },
+    "titi": {
+        "scores": {
+            "victoires": 0,
+            "defaites": 1,
+            "egalites": 4
+        },
+        "parties": [
+            {
+                "joueur": "papier",
+                "ordinateur": "papier",
+                "resultat": "\u00c9galit\u00e9"
+            },
+            {
+                "joueur": "ciseaux",
+                "ordinateur": "pierre",
+                "resultat": "D\u00e9faite"
+            },
+            {
+                "joueur": "pierre",
+                "ordinateur": "pierre",
+                "resultat": "\u00c9galit\u00e9"
+            },
+            {
+                "joueur": "papier",
+                "ordinateur": "papier",
+                "resultat": "\u00c9galit\u00e9"
+            },
+            {
+                "joueur": "ciseaux",
+                "ordinateur": "ciseaux",
+                "resultat": "\u00c9galit\u00e9"
+            }
+        ]
+    }
+}

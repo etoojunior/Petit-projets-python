@@ -1,0 +1,29 @@
+{
+    "meilleur_score": 3,
+    "parties": [
+        {
+            "niveau": "Facile",
+            "nombre": 6,
+            "essais": 3,
+            "r\u00e9ussi": true
+        },
+        {
+            "niveau": "Normal",
+            "nombre": 18,
+            "essais": 6,
+            "r\u00e9ussi": true
+        },
+        {
+            "niveau": "Difficile",
+            "nombre": 53,
+            "essais": 5,
+            "r\u00e9ussi": false
+        },
+        {
+            "niveau": "Difficile",
+            "nombre": 83,
+            "essais": 5,
+            "r\u00e9ussi": false
+        }
+    ]
+}

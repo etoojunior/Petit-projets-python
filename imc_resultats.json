@@ -1,0 +1,37 @@
+[
+    {
+        "nom": "Shimel Tarick",
+        "poids_kg": 69.0,
+        "taille_m": 166.0,
+        "imc": 0.0,
+        "interpretation": "Maigreur"
+    },
+    {
+        "nom": "toto",
+        "poids_kg": 70.0,
+        "taille_m": 175.0,
+        "imc": 0.0,
+        "interpretation": "Maigreur"
+    },
+    {
+        "nom": "toto",
+        "poids_kg": 69.0,
+        "taille_m": 166.0,
+        "imc": 0.0,
+        "interpretation": "Maigreur"
+    },
+    {
+        "nom": "tata",
+        "poids_kg": 89.0,
+        "taille_m": 1.75,
+        "imc": 29.06,
+        "interpretation": "Surpoids"
+    },
+    {
+        "nom": "TITI",
+        "poids_kg": 69.0,
+        "taille_m": 1.66,
+        "imc": 25.04,
+        "interpretation": "Surpoids"
+    }
+]
